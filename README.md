@@ -1,2 +1,2 @@
-# Dynamic_Scheduling_AoI_Energy_Trade-off_Satellite_Onboard_Edge_Computing
-
+星上边缘计算中AoI与能耗权衡的动态调度技术
+Dynamic Scheduling for AoI and Energy Consumption Trade-off in Satellite Onboard Edge Computing
